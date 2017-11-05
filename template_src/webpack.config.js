@@ -10,8 +10,9 @@ const path = require('path'),
     ExtractTextPlugin = require("extract-text-webpack-plugin"),
 
     entryFile = path.join(__dirname, 'src/main.js'),
-    dbSourceFile = path.join(__dirname, 'db/iDoct.db'),
-    dbDestFile = path.join(__dirname, 'www/iDoct.db'),
+    databaseFileName = 'demo.db',
+    dbSourceFile = path.join(__dirname, 'db/'+databaseFileName),
+    dbDestFile = path.join(__dirname, 'www/'+databaseFileName),
     devServerPort = 8081
 
 let config = function(env) {
