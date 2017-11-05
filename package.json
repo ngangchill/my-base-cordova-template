@@ -15,6 +15,6 @@
     "ecosystem:cordova",
     "cordova:template"
   ],
-  "author": "Caryn Tran",
+  "author": "Forhad Ahmed",
   "license": "Apache-2.0"
 }
