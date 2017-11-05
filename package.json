@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/carynbear/cordova-template.git"
+    "url": "https://github.com/ngangchill/my-base-cordova-template.git"
   },
-  "homepage": "https://github.com/carynbear/cordova-template",
+  "homepage": "https://github.com/ngangchill/my-base-cordova-template",
   "keywords": [
     "ecosystem:cordova",
     "cordova:template"
