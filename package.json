@@ -1,5 +1,5 @@
 {
-  "name": "cordova-onsenui-vue-template",
+  "name": "my-base-cordova-onsenui-vue-template",
   "version": "1.0.0",
   "description": "cordova onsenui vue template.",
   "main": "index.js",
